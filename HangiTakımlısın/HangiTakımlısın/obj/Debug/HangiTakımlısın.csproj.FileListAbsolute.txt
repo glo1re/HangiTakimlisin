@@ -1,0 +1,14 @@
+C:\Users\Efe_O\source\repos\HangiTakımlısın\HangiTakımlısın\bin\Debug\HangiTakımlısın.exe.config
+C:\Users\Efe_O\source\repos\HangiTakımlısın\HangiTakımlısın\bin\Debug\HangiTakımlısın.exe
+C:\Users\Efe_O\source\repos\HangiTakımlısın\HangiTakımlısın\bin\Debug\HangiTakımlısın.pdb
+C:\Users\Efe_O\source\repos\HangiTakımlısın\HangiTakımlısın\obj\Debug\HangiTakımlısın.csproj.AssemblyReference.cache
+C:\Users\Efe_O\source\repos\HangiTakımlısın\HangiTakımlısın\obj\Debug\HangiTakımlısın.Form1.resources
+C:\Users\Efe_O\source\repos\HangiTakımlısın\HangiTakımlısın\obj\Debug\HangiTakımlısın.Properties.Resources.resources
+C:\Users\Efe_O\source\repos\HangiTakımlısın\HangiTakımlısın\obj\Debug\HangiTakımlısın.csproj.GenerateResource.cache
+C:\Users\Efe_O\source\repos\HangiTakımlısın\HangiTakımlısın\obj\Debug\HangiTakımlısın.csproj.CoreCompileInputs.cache
+C:\Users\Efe_O\source\repos\HangiTakımlısın\HangiTakımlısın\obj\Debug\HangiTakımlısın.exe
+C:\Users\Efe_O\source\repos\HangiTakımlısın\HangiTakımlısın\obj\Debug\HangiTakımlısın.pdb
+C:\Users\Efe_O\source\repos\HangiTakımlısın\HangiTakımlısın\obj\Debug\HangiTakımlısın.Form2.resources
+C:\Users\Efe_O\source\repos\HangiTakımlısın\HangiTakımlısın\obj\Debug\HangiTakımlısın.Form3.resources
+C:\Users\Efe_O\source\repos\HangiTakımlısın\HangiTakımlısın\obj\Debug\HangiTakımlısın.Form4.resources
+C:\Users\Efe_O\source\repos\HangiTakımlısın\HangiTakımlısın\obj\Debug\HangiTakımlısın.Form5.resources
